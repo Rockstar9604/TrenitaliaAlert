@@ -1,0 +1,7 @@
+#Ignora la cartella node_modules
+node_modules
+last_data
+
+#Ignora config.json
+config.json
+regions.json
