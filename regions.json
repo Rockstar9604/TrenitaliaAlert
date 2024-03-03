@@ -1,0 +1,82 @@
+{
+  "piemonte": {
+    "channelId": "TELEGRAM CHANNEL ID HERE",
+    "filePath": "last_data/piemonte.json"
+  },
+  "valle_d_aosta": {
+    "channelId": "",
+    "filePath": "last_data/valle_d_aosta.json"
+  },
+  "lombardia": {
+    "channelId": "",
+    "filePath": "last_data/lombardia.json"
+  },
+  "trentino_alto_adige": {
+    "channelId": "",
+    "filePath": "last_data/trentino_alto_adige.json"
+  },
+  "veneto": {
+    "channelId": "",
+    "filePath": "last_data/veneto.json"
+  },
+  "friuli_venezia_giulia": {
+    "channelId": "",
+    "filePath": "last_data/friuli_venezia_giulia.json"
+  },
+  "liguria": {
+    "channelId": "-1002016306245",
+    "filePath": "last_data/liguria.json"
+  },
+  "emilia_romagna": {
+    "channelId": "",
+    "filePath": "last_data/emilia_romagna.json"
+  },
+  "toscana": {
+    "channelId": "",
+    "filePath": "last_data/toscana.json"
+  },
+  "umbria": {
+    "channelId": "",
+    "filePath": "last_data/umbria.json"
+  },
+  "marche": {
+    "channelId": "",
+    "filePath": "last_data/marche.json"
+  },
+  "lazio": {
+    "channelId": "",
+    "filePath": "last_data/lazio.json"
+  },
+  "abruzzo": {
+    "channelId": "",
+    "filePath": "last_data/abruzzo.json"
+  },
+  "molise": {
+    "channelId": "",
+    "filePath": "last_data/molise.json"
+  },
+  "campania": {
+    "channelId": "",
+    "filePath": "last_data/campania.json"
+  },
+  "puglia": {
+    "channelId": "",
+    "filePath": "last_data/puglia.json"
+  },
+  "basilicata": {
+    "channelId": "",
+    "filePath": "last_data/basilicata.json"
+  },
+  "calabria": {
+    "channelId": "",
+    "filePath": "last_data/calabria.json"
+  },
+  "sicilia": {
+    "channelId": "",
+    "filePath": "last_data/sicilia.json"
+  },
+  "sardegna": {
+    "channelId": "",
+    "filePath": "last_data/sardegna.json"
+  }
+}
